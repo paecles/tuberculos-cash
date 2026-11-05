@@ -1,2 +1,1 @@
-websockets
-pygame
+websockets==12.0
